@@ -1,0 +1,68 @@
+
+.header h1,h3,p {
+    color:#fff;  
+
+}
+
+ .header h3{
+  font-weight: 100 !important;
+
+}
+
+.phone{
+    width: 78.7677%;
+}
+
+
+.text{
+    margin-top: 150px;
+        
+}
+
+.btn {
+  -webkit-border-radius: 4; 
+  -moz-border-radius: 4;
+  border-radius: 3px;
+  color: #ffffff;
+  font-size: 18px;
+  background: #4ebd9e;
+  padding: 10px 20px 10px 20px;
+  border: solid #ffffff 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #4ee8bd;
+  text-decoration: none;
+}
+
+.text a{
+    text-transform: uppercase;
+    font-weight: bold
+}
+
+.logo-droid{
+	width: 13%;
+}
+
+.logo-contrib{
+	width: 30.33%
+}
+footer{
+  padding: 0 !important;
+}
+footer ul li p{
+	font-size: 10px;
+}
+
+footer ul li{
+  height: 400px;
+}
+
+.right{
+  text-align: right;
+}
+
+.middle{
+  text-align: center;
+}
