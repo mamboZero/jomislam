@@ -48,21 +48,27 @@
 .logo-contrib{
 	width: 30.33%
 }
-footer{
-  padding: 0 !important;
-}
-footer ul li p{
-	font-size: 10px;
+
+#ft{
+  padding: 10px;
+  color: #fff
 }
 
-footer ul li{
-  height: 400px;
-}
+// footer{
+//   padding: 0 !important;
+// }
+// footer ul li p{
+// 	font-size: 10px;
+// }
 
-.right{
-  text-align: right;
-}
+// footer ul li{
+//   height: 400px;
+// }
 
-.middle{
-  text-align: center;
-}
+// .right{
+//   text-align: right;
+// }
+
+// .middle{
+//   text-align: center;
+// }
